@@ -1,0 +1,1 @@
+# ai-based-early-bushfire-detection
